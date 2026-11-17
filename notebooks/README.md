@@ -1,1 +1,1 @@
-Python scripts used in the project
+Python notebooks for financial analysis
